@@ -1,6 +1,6 @@
 # MATH103.1: Predictive Modeling for Text
 
-This is a collection of lab exercises for MATH103.1: Predictive Modeling for Text, taken during the first semester of SY 2023-2024. 
+This is a collection of Jupyter notebooks for MATH103.1: Predictive Modeling for Text, taken during the first semester of SY 2023-2024. 
 
 Jupyter notebooks were ran using the Python kernel through Anaconda.
 
