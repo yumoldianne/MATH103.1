@@ -8,6 +8,7 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * 1.2 Machine Learning with Pandas
 * 1.3 Data Loading, Storage, and File Formates
 * 1.4 Data Cleaning and Preparation
+* LT1
 * 2.1 Data Wrangling
 * 2.2 Plotting and Visualization
 * 2.3 Data Aggregation and Group Operations
