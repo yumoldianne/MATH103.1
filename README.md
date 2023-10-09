@@ -13,3 +13,6 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * 2.2 Plotting and Visualization
 * 2.3 Data Aggregation and Group Operations
 * 2.4 Time Series
+* LT2
+* 3.0 Natural Language Processing Features
+* 3.1 Tokenization
