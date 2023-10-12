@@ -4,11 +4,13 @@ This is a collection of Jupyter notebooks for MATH 103.1: Predictive Modeling fo
 
 Jupyter notebooks were ran using the Python kernel through Anaconda.
 
+* 1.0 Python for Data Science I
 * 1.1 Tensors Using NumPy
 * 1.2 Machine Learning with Pandas
 * 1.3 Data Loading, Storage, and File Formates
 * 1.4 Data Cleaning and Preparation
 * LT1
+* 2.0 Python for Data Science I
 * 2.1 Data Wrangling
 * 2.2 Plotting and Visualization
 * 2.3 Data Aggregation and Group Operations
