@@ -18,3 +18,4 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * LT2
 * 3.0 Natural Language Processing Features
 * 3.1 Tokenization
+* 3.2 Stopwords and Stemming
