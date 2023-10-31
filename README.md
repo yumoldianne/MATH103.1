@@ -21,4 +21,4 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * 3.2 Stopwords and Stemming
 * 4.0 Machine Learning Methods
 * 4.1 Regression
-* 4.2 Clustering
+* 4.2 Classification
