@@ -19,6 +19,7 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * 3.0 Natural Language Processing Features
 * 3.1 Tokenization
 * 3.2 Stopwords and Stemming
+* 3.3 Text Data Vectorization
 * LT3
 * 4.0 Machine Learning Methods
 * 4.1 Regression
