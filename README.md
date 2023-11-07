@@ -24,4 +24,6 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * 4.0 Machine Learning Methods
 * 4.1 Regression
 * 4.2 Classification
-* 5.0 Deep Learning Methods and Introduction to Deep Learning
+* 5.0 Deep Learning Methods
+* 5.1 Introduction to Deep Learning Part 1
+* 5.2 Introduction to Deep Learning Part 2
