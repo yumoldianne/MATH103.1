@@ -27,3 +27,5 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * 5.0 Deep Learning Methods
 * 5.1 Introduction to Deep Learning Part 1
 * 5.2 Introduction to Deep Learning Part 2
+* 5.3 Introduction to Deep Learning Part 3
+* 5.4 Convolutional Neural Networks (CNN)
